@@ -1,0 +1,12 @@
+.add-area {
+    color: grey;
+    border: 1px dotted grey;
+    padding: 3px 10px;
+    background-color: #ffffff;
+    text-align: center;
+    margin: 18px auto;    
+}
+
+.add-area:hover {
+    cursor: pointer;
+}

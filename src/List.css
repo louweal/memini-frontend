@@ -1,0 +1,17 @@
+
+.list h1 {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.list h1 i {
+    font-size: 15px;
+    margin-left: 13px;
+    color: grey;
+}
+
+.task {
+    background-color: #ffffff;
+    text-align: center;
+    margin: 18px auto;
+}
